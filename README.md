@@ -80,13 +80,6 @@ Senior full-stack engineer building **production AI systems** end-to-end — fro
 
 ---
 
-#### 📊 GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=codeshark2&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshark2&theme=great-gatsby&hide_border=true&layout=compact)
-
----
-
 #### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-khare2/)
